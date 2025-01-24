@@ -1,0 +1,5 @@
+bucket_name          = "samley_bucket12" 
+index_document       = "index.html"
+error_document       = "error.html"
+index_document_source = "../../website/error.html"  
+error_document_source = "../../website/error.html" 
