@@ -59,10 +59,11 @@ project-root/
 ### Step 1: Clone the Repository
 Clone this repository to your local machine:
 bash
+```
 git clone <repository-url>
 cd <repository-folder>
 
-
+```
 
 ### Step 2: Configure Variables
 Update the variables.tf file with your desired values, or pass them as command-line arguments when running Terraform.
@@ -70,15 +71,17 @@ Update the variables.tf file with your desired values, or pass them as command-l
 ### Step 3: Initialize Terraform
 Initialize the Terraform workspace to download the necessary provider plugins:
 bash
+```
 terraform init
-
+```
 
 ### Step 4: Review and Apply Changes
 Review the Terraform execution plan and apply the configuration:
 bash
+```
 terraform plan
 terraform apply
-
+```
 
 ### Step 5: Upload Static Files
 Ensure your static files are located in the directory specified by var.source_directory. Terraform will automatically upload them to the S3 bucket during apply.
