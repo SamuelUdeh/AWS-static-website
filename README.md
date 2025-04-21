@@ -43,7 +43,8 @@ project-root/
 ```
 
 ## Architectural Diagram
-![Alt text][
+![Alt text][![Untitled Diagram drawio](https://github.com/user-attachments/assets/2cb26eb5-51d4-485e-ab50-dc7a92b02e39)
+
 
 
 
