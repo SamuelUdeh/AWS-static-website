@@ -58,7 +58,7 @@ project-root/
 
 ### Step 1: Clone the Repository
 Clone this repository to your local machine:
-bash
+
 ```
 git clone <repository-url>
 cd <repository-folder>
@@ -70,14 +70,14 @@ Update the variables.tf file with your desired values, or pass them as command-l
 
 ### Step 3: Initialize Terraform
 Initialize the Terraform workspace to download the necessary provider plugins:
-bash
+
 ```
 terraform init
 ```
 
 ### Step 4: Review and Apply Changes
 Review the Terraform execution plan and apply the configuration:
-bash
+
 ```
 terraform plan
 terraform apply
@@ -100,9 +100,9 @@ https://dghdhvdhh.cloudfront.net
 
 ## Cleaning Up
 To remove all resources created by Terraform:
-bash
+```
 terraform destroy
-
+```
 
 ## References
 - [Terraform Documentation](https://developer.hashicorp.com/terraform/docs)
