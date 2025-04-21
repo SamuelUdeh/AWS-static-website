@@ -43,7 +43,7 @@ project-root/
 ```
 
 ## Architectural Diagram
-![Uploading AWS Static Website Architecture.png…]()
+![Alt text][Uploading AWS Static Website Architecture.png…]()
 
 
 
