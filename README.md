@@ -43,8 +43,8 @@ project-root/
 ```
 
 ## Architectural Diagram
-(![AWS Static Website Architecture](https://github.com/user-attachments/assets/24bffe8b-b63a-46af-bbf8-9db988c4566e)
-)
+<img src="![Uploading AWS Static Website Architecture.png…]()
+" alt="Architecture Diagram" width="400"/>
 
 
 
