@@ -43,7 +43,8 @@ project-root/
 ```
 
 ## Architectural Diagram
-![Alt text](https://github.com/Otumiky/static-website/blob/main/static.drawio.png)
+![Alt text](![AWS Static Website Architecture](https://github.com/user-attachments/assets/24bffe8b-b63a-46af-bbf8-9db988c4566e)
+)
 
 
 
