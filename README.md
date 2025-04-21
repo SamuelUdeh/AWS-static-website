@@ -21,6 +21,7 @@ Ensure you have the following before proceeding:
 ## Folder Structure
 
 project-root/
+```
 ├── modules/
 │   └── s3-static-website/
 │       ├── main.tf
@@ -39,7 +40,7 @@ project-root/
 │      ├── index.html
 │      ├── error.html
        
-
+```
 
 ## Architectural Diagram
 ![Alt text](https://github.com/Otumiky/static-website/blob/main/static.drawio.png)
@@ -60,6 +61,7 @@ Clone this repository to your local machine:
 bash
 git clone <repository-url>
 cd <repository-folder>
+
 
 
 ### Step 2: Configure Variables
