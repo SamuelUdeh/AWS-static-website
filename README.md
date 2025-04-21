@@ -3,13 +3,13 @@
 This repository contains the Terraform configuration to deploy a static website on an AWS S3 bucket.
 
 ## Features
-- *S3 Backend and DynamoDb lock Creation*: Provisions an S3  backend for state storage
-- *S3 Bucket Creation*: Provisions an S3 bucket for hosting the static website.
-- *Static Website Configuration*: Sets up the bucket for static website hosting with an index and error document.
-- *Automatic File Upload*: Uploads all files from a specified source directory to the S3 bucket.
-- *Public Access Configuration*: Configures the bucket policy for public access to website files.
-- *Content Type Detection*: Automatically assigns appropriate MIME types to uploaded files based on their extensions.
-- *Content Delivery*: Use Cloudfront for CDN.
+- **S3 Backend and DynamoDb lock Creation**: Provisions an S3  backend for state storage
+- **S3 Bucket Creation**: Provisions an S3 bucket for hosting the static website.
+- **Static Website Configuration**: Sets up the bucket for static website hosting with an index and error document.
+- **Automatic File Upload**: Uploads all files from a specified source directory to the S3 bucket.
+- **Public Access Configuration**: Configures the bucket policy for public access to website files.
+- **Content Type Detection**: Automatically assigns appropriate MIME types to uploaded files based on their extensions.
+- **Content Delivery**: Use Cloudfront for CDN.
 
 
 ## Prerequisites
