@@ -91,14 +91,15 @@ Ensure your static files are in the directory specified by var.source_directory.
 ### Step 6: Access Your Website
 - Retrieve the S3 bucket  CloudFront domain from the Terraform outputs.
 - Access the static website using the endpoint:
+  
+samley-bucket-12.s3.us-east-1.amazonaws.com
 
-https://dghdhvdhh.cloudfront.net
 
-(![Capture  s3](https://github.com/user-attachments/assets/2f70aceb-4d2b-4610-9622-0b6cc16d9715)
-)
+![Capture  s3](https://github.com/user-attachments/assets/2f70aceb-4d2b-4610-9622-0b6cc16d9715)
 
-(![Capture  Completed project](https://github.com/user-attachments/assets/c03564da-9bc9-4649-9f46-6077e762bcdb)
-)
+
+![Capture  Completed project](https://github.com/user-attachments/assets/c03564da-9bc9-4649-9f46-6077e762bcdb)
+
 
 
 ## Cleaning Up
