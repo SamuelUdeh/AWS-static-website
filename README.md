@@ -86,7 +86,7 @@ terraform apply
 ```
 
 ### Step 5: Upload Static Files
-Ensure your static files are located in the directory specified by var.source_directory. Terraform will automatically upload them to the S3 bucket during apply.
+Ensure your static files are in the directory specified by var.source_directory. Terraform will automatically upload them to the S3 bucket when they are applied.
 
 ### Step 6: Access Your Website
 - Retrieve the S3 bucket  CloudFront domain from the Terraform outputs.
@@ -94,11 +94,12 @@ Ensure your static files are located in the directory specified by var.source_di
 
 https://dghdhvdhh.cloudfront.net
 
-![Alt text](https://github.com/Otumiky/static-website/blob/main/cdn.png)
+![Alt text](![Capture  s3](https://github.com/user-attachments/assets/2f70aceb-4d2b-4610-9622-0b6cc16d9715)
+)
 
-![Alt text](https://github.com/Otumiky/static-website/blob/main/cdnwb.png)
+![Alt text](![Capture  Completed project](https://github.com/user-attachments/assets/c03564da-9bc9-4649-9f46-6077e762bcdb)
+)
 
-![Alt text](https://github.com/Otumiky/static-website/blob/main/cdnurl.png)
 
 ## Cleaning Up
 To remove all resources created by Terraform:
