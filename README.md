@@ -94,10 +94,10 @@ Ensure your static files are in the directory specified by var.source_directory.
 
 https://dghdhvdhh.cloudfront.net
 
-![Alt text](![Capture  s3](https://github.com/user-attachments/assets/2f70aceb-4d2b-4610-9622-0b6cc16d9715)
+(![Capture  s3](https://github.com/user-attachments/assets/2f70aceb-4d2b-4610-9622-0b6cc16d9715)
 )
 
-![Alt text](![Capture  Completed project](https://github.com/user-attachments/assets/c03564da-9bc9-4649-9f46-6077e762bcdb)
+(![Capture  Completed project](https://github.com/user-attachments/assets/c03564da-9bc9-4649-9f46-6077e762bcdb)
 )
 
 
