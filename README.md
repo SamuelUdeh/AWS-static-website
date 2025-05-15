@@ -1,4 +1,4 @@
-# Static Website on AWS S3 with Terraform
+# Deployed a static website on AWS S3 using Terraform
 
 This repository contains the Terraform configuration to deploy a static website on an AWS S3 bucket.
 
